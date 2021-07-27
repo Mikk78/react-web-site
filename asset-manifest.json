@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-web-site/static/css/main.374493b4.chunk.css",
+    "main.js": "/react-web-site/static/js/main.46646fc2.chunk.js",
+    "main.js.map": "/react-web-site/static/js/main.46646fc2.chunk.js.map",
+    "runtime-main.js": "/react-web-site/static/js/runtime-main.8d3e746e.js",
+    "runtime-main.js.map": "/react-web-site/static/js/runtime-main.8d3e746e.js.map",
+    "static/js/2.4b73c6cb.chunk.js": "/react-web-site/static/js/2.4b73c6cb.chunk.js",
+    "static/js/2.4b73c6cb.chunk.js.map": "/react-web-site/static/js/2.4b73c6cb.chunk.js.map",
+    "index.html": "/react-web-site/index.html",
+    "precache-manifest.992d0d84208aa00a9fb6c716de3ad580.js": "/react-web-site/precache-manifest.992d0d84208aa00a9fb6c716de3ad580.js",
+    "service-worker.js": "/react-web-site/service-worker.js",
+    "static/css/main.374493b4.chunk.css.map": "/react-web-site/static/css/main.374493b4.chunk.css.map",
+    "static/js/2.4b73c6cb.chunk.js.LICENSE.txt": "/react-web-site/static/js/2.4b73c6cb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-web-site/static/media/img-1.cd1d1c97.jpg",
+    "static/media/img-2.jpg": "/react-web-site/static/media/img-2.4143d240.jpg",
+    "static/media/img-3.jpg": "/react-web-site/static/media/img-3.65b53910.jpg",
+    "static/media/img-4.jpg": "/react-web-site/static/media/img-4.0ec923fc.jpg",
+    "static/media/img-5.jpg": "/react-web-site/static/media/img-5.c64ec5c8.jpg",
+    "static/media/img-6.jpg": "/react-web-site/static/media/img-6.bd11375f.jpg",
+    "static/media/img-7.jpg": "/react-web-site/static/media/img-7.66001cf8.jpg",
+    "static/media/img-8.jpg": "/react-web-site/static/media/img-8.d211c298.jpg",
+    "static/media/img-9.jpg": "/react-web-site/static/media/img-9.523a89f6.jpg",
+    "static/media/video-1.mp4": "/react-web-site/static/media/video-1.229f5279.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3e746e.js",
+    "static/js/2.4b73c6cb.chunk.js",
+    "static/css/main.374493b4.chunk.css",
+    "static/js/main.46646fc2.chunk.js"
+  ]
+}
